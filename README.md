@@ -7,5 +7,5 @@ npm i memes.spain
 ## Uso
 ```js
 const memes = require("memes.spain");
-memes.Meme();
+const meme = memes.Memes();
 ```
