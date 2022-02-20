@@ -1,11 +1,11 @@
-# @fjfh09/memes
+# memes.spain
 Npm que da memes en español
 ## Instalación
 ```sh
-npm i @fjfh09/memes
+npm i memes.spain
 ```
 ## Uso
 ```js
-const memes = require("@fjfh09/memes");
+const memes = require("memes.spain");
 memes.Meme();
 ```
