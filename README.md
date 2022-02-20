@@ -1,10 +1,11 @@
-# prueba
-npm de prueba
-
-Pon esto en tu codigo
-
-const Prueba = require("@fjfh09/prueba");
-
-let prueba = new Prueba();
-
-prueba.diceHola();
+# @fjfh09/memes
+Npm que da memes en español
+## Instalación
+```js
+npm i @fjfh09/memes
+```
+## Uso
+```js
+const memes = require("@fjfh09/memes");
+memes.Meme();
+```
