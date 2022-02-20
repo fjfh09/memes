@@ -1,7 +1,7 @@
 # @fjfh09/memes
 Npm que da memes en español
 ## Instalación
-```js
+```sh
 npm i @fjfh09/memes
 ```
 ## Uso
