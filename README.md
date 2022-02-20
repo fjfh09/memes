@@ -9,7 +9,7 @@ npm i memes.spain
 const memes = require("memes.spain");
 const meme = memes.Memes();
 ```
-##Ejemplo
+## Ejemplo
 ```js
 const memes = require("memes.spain");
 const meme = memes.Memes();
