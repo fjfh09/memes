@@ -24,3 +24,5 @@ const embed = new Discord.MessageEmbed()
   
 message.channel.send({ embeds: [embed] })
 ```
+## Soporte
+Si tienes algún problema o algún bug comunicamelo [aquí]()
