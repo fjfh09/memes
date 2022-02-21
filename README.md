@@ -1,5 +1,6 @@
 # memes.spain
 Npm que da memes en español
+(Id mirando de vez en cuando la versión porque voy a ir subiendo mas memes)
 ## Instalación
 ```sh
 npm i memes.spain
