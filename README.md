@@ -25,4 +25,4 @@ const embed = new Discord.MessageEmbed()
 message.channel.send({ embeds: [embed] })
 ```
 ## Soporte
-Si tienes algún problema o algún bug comunicamelo [aquí]()
+Si tienes algún problema o algún bug comunicamelo [aquí](https://github.com/fjfh09/memes.spain/issues)
